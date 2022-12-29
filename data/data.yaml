@@ -1,0 +1,9 @@
+train: /kaggle/input/splitdata/New folder (2)/newdataswap/train
+val:  /kaggle/input/splitdata/New folder (2)/valdataswap
+test: /kaggle/input/splitdata/New folder (2)/newdataswap/test
+
+# number of classes
+nc: 2
+
+# class names
+names: ["0","1"]
