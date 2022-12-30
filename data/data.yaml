@@ -1,6 +1,6 @@
-train: /kaggle/input/splitdata/New folder (2)/newdataswap/train
-val:  /kaggle/input/splitdata/New folder (2)/newdataswap/test
-test: /kaggle/input/splitdata/New folder (2)/valdataswap
+train: /kaggle/input/valdataswapp/train
+val:  /kaggle/input/valdataswapp/test
+test: 
 
 # number of classes
 nc: 2
